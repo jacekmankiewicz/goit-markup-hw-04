@@ -321,7 +321,16 @@
     text-align: center;
 }
 .section-four-svg {
-    
+
+}
+.section-four-social {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.section-four-icons {
+    width: 40px;
+    height: 40px;
 }
 .section-four-list {
     gap: 24px;
