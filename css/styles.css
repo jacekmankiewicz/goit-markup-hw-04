@@ -320,6 +320,9 @@
     color: var(--text-color);
     text-align: center;
 }
+.section-four-svg {
+    
+}
 .section-four-list {
     gap: 24px;
     display: flex;
