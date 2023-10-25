@@ -332,6 +332,7 @@
 .section-four-icons {
     width: 40px;
     height: 40px;
+    justify-content: center;
 }
 .section-four-icons-list {
     width: 100%;
