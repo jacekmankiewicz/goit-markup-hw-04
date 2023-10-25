@@ -65,7 +65,6 @@
     display: flex;
 }
 .section-two-item {
-    width: calc((100% - 72px)/4);
 }
 .section-three-item {
     width: calc((100% - 48px)/3);
