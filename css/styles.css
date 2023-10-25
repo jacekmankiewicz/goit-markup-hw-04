@@ -92,6 +92,10 @@
     border-color: #404bbf;
     color: #404bbf;
 }
+.section-five-link:focus {
+    border-color: #404bbf;
+    color: #404bbf;
+}
 .section-five-svg {
     fill: currentColor;
 }
