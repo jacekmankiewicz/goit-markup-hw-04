@@ -283,6 +283,15 @@
     color: var(--text-color);
     margin-bottom: 8px;
 }
+.section-two-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 .section-four-paragraph {
     font-size: 16px;
     line-height: 1.5;
