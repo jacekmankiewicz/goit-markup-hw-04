@@ -88,10 +88,6 @@
     justify-content: center;
     color: var(--subtle-text-color);
 }
-.section-five-link:hover {
-    border-color: #404bbf;
-    color: #404bbf;
-}
 .section-five-link:focus {
     border-color: #404bbf;
     color: #404bbf;
