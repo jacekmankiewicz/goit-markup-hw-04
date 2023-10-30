@@ -350,6 +350,12 @@
     justify-content: center;
 
 }
+.section-four-icons-list:hover {
+    background-color: #404bbf;
+}
+.section-four-icons-list:focus {
+    background-color: #404bbf;
+}
 .section-four-list {
     gap: 24px;
     display: flex;
