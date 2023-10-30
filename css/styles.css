@@ -485,3 +485,6 @@
     display: flex;
     align-items: baseline;
 }
+.footer-container-div-first {
+    margin-right: 120px;
+}
