@@ -65,6 +65,7 @@
     display: flex;
 }
 .section-two-item {
+    width: calc((100% - 72px)/4);
 }
 .section-three-item {
     width: calc((100% - 48px)/3);
@@ -318,7 +319,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text-color);
-    margin-bottom: 8px;
+    font-weight: 400px;
 }
 .section-two-icons {
     display: flex;
@@ -358,7 +359,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
+    margin-top: 8px;
 }
 .section-four-icons-list:hover {
     background-color: #404bbf;
